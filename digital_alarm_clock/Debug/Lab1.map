@@ -1,0 +1,94 @@
+Optimizing Linkage Editor (V.10.02.00.000)        29-Jan-2016 15:17:25
+
+*** Options ***
+
+-subcommand=C:\WorkSpace\Advanced Embedded Labs\Lab1\Lab1\Debug\Lab1.hlk
+-noprelink
+-rom=D=R,D_1=R_1,D_2=R_2
+-nomessage
+-vect=_undefined_interrupt_source_isr
+-list="C:\WorkSpace\Advanced Embedded Labs\Lab1\Lab1\Debug\Lab1.map"
+-nooptimize
+-start=SI,SU,B_1,R_1,B_2,R_2,B,R/00,C_1,C_2,C,C$*,L*,D*,P,W*/0FFF80000,FIXEDVECT/0FFFFFF90
+-nologo
+-input="C:\WorkSpace\Advanced Embedded Labs\Lab1\Lab1\Debug\cmt_periodic_multi.obj"
+-input="C:\WorkSpace\Advanced Embedded Labs\Lab1\Lab1\Debug\custom_rtc.obj"
+-input="C:\WorkSpace\Advanced Embedded Labs\Lab1\Lab1\Debug\customADC.obj"
+-input="C:\WorkSpace\Advanced Embedded Labs\Lab1\Lab1\Debug\dbsct.obj"
+-input="C:\WorkSpace\Advanced Embedded Labs\Lab1\Lab1\Debug\flash_options.obj"
+-input="C:\WorkSpace\Advanced Embedded Labs\Lab1\Lab1\Debug\font_8x8.obj"
+-input="C:\WorkSpace\Advanced Embedded Labs\Lab1\Lab1\Debug\glyph.obj"
+-input="C:\WorkSpace\Advanced Embedded Labs\Lab1\Lab1\Debug\hwsetup.obj"
+-input="C:\WorkSpace\Advanced Embedded Labs\Lab1\Lab1\Debug\lcd.obj"
+-input="C:\WorkSpace\Advanced Embedded Labs\Lab1\Lab1\Debug\lowlvl.obj"
+-input="C:\WorkSpace\Advanced Embedded Labs\Lab1\Lab1\Debug\lowsrc.obj"
+-input="C:\WorkSpace\Advanced Embedded Labs\Lab1\Lab1\Debug\main.obj"
+-input="C:\WorkSpace\Advanced Embedded Labs\Lab1\Lab1\Debug\mtu_pwm_mode1_demo.obj"
+-input="C:\WorkSpace\Advanced Embedded Labs\Lab1\Lab1\Debug\r_glyph.obj"
+-input="C:\WorkSpace\Advanced Embedded Labs\Lab1\Lab1\Debug\r_glyph_register.obj"
+-input="C:\WorkSpace\Advanced Embedded Labs\Lab1\Lab1\Debug\r_rspi_rx600.obj"
+-input="C:\WorkSpace\Advanced Embedded Labs\Lab1\Lab1\Debug\r_switches.obj"
+-input="C:\WorkSpace\Advanced Embedded Labs\Lab1\Lab1\Debug\resetprg.obj"
+-input="C:\WorkSpace\Advanced Embedded Labs\Lab1\Lab1\Debug\sbrk.obj"
+-input="C:\WorkSpace\Advanced Embedded Labs\Lab1\Lab1\Debug\st7579_lcd.obj"
+-input="C:\WorkSpace\Advanced Embedded Labs\Lab1\Lab1\Debug\vecttbl.obj"
+-library="C:\WorkSpace\Advanced Embedded Labs\Lab1\Lab1\Debug\Lab1.lib"
+-output="C:\WorkSpace\Advanced Embedded Labs\Lab1\Lab1\Debug\Lab1.abs"
+-end
+
+*** Error information ***
+
+*** Mapping List ***
+
+SECTION                            START      END         SIZE   ALIGN
+
+SI
+                                  00000000  000003ff       400   4
+SU
+                                  00000400  000013ff      1000   4
+B_1
+                                  00001400  00001454        55   1
+R_1
+                                  00001455  000014a8        54   1
+B_2
+                                  000014aa  000014aa         0   2
+R_2
+                                  000014aa  000014aa         0   2
+B
+                                  000014ac  00001903       458   4
+R
+                                  00001904  00001fef       6ec   4
+$ADDR_C_FF7FFFE8
+                                  ff7fffe8  ff7fffff        18   1
+C_1
+                                  fff80000  fff80ad1       ad2   1
+C_2
+                                  fff80ad2  fff80cd9       208   2
+C
+                                  fff80cdc  fff80d93        b8   4
+C$DSEC
+                                  fff80d94  fff80db7        24   4
+C$BSEC
+                                  fff80db8  fff80dcf        18   4
+C$VECT
+                                  fff80dd0  fff811cf       400   4
+L
+                                  fff811d0  fff81424       255   4
+D
+                                  fff81428  fff81b13       6ec   4
+D_2
+                                  fff81b14  fff81b14         0   2
+D_1
+                                  fff81b14  fff81b67        54   1
+P
+                                  fff81b68  fff8692d      4dc6   1
+W_1
+                                  fff8692e  fff8692e         0   1
+W_2
+                                  fff8692e  fff869ff        d2   2
+W
+                                  fff86a00  fff86a00         0   4
+$ADDR_C_FFFFFF80
+                                  ffffff80  ffffff8f        10   1
+FIXEDVECT
+                                  ffffff90  ffffffff        70   4

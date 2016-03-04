@@ -1,0 +1,49 @@
+[HIMDBVersion]
+2.0
+[DATABASE_VERSION]
+"1.2" 
+[CURRENT_PROJECT]
+"Lab1" 
+[GENERAL_DATA]
+[BREAKPOINTS]
+[OPEN_WORKSPACE_FILES]
+"C:\WorkSpace\Advanced Embedded Labs\Lab1\Lab1\r_bsp\board\rdkrx63n\lcd.c" 
+"C:\WorkSpace\Advanced Embedded Labs\Lab1\Lab1\r_bsp\board\rdkrx63n\lowlvl.src" 
+"C:\WorkSpace\Advanced Embedded Labs\Lab1\Lab1\r_bsp\board\rdkrx63n\lowsrc.c" 
+"C:\WorkSpace\Advanced Embedded Labs\Lab1\Lab1\r_bsp\board\rdkrx63n\resetprg.c" 
+"C:\WorkSpace\Advanced Embedded Labs\Lab1\Lab1\r_bsp\board\rdkrx63n\vecttbl.c" 
+"C:\WorkSpace\Advanced Embedded Labs\Lab1\Lab1\r_glyph\src\glyph\drivers\st7579_lcd.c" 
+"C:\WorkSpace\Advanced Embedded Labs\Lab1\Lab1\r_glyph\src\r_glyph.c" 
+"C:\WorkSpace\Advanced Embedded Labs\Lab1\Lab1\r_rspi_rx600\src\r_rspi_rx600.c" 
+"C:\WorkSpace\Advanced Embedded Labs\Lab1\Lab1\r_switches\src\r_switches.c" 
+"C:\WorkSpace\Advanced Embedded Labs\Lab1\Lab1\src\cmt_periodic_multi.c" 
+"C:\WorkSpace\Advanced Embedded Labs\Lab1\Lab1\src\cmt_periodic_multi.h" 
+"C:\WorkSpace\Advanced Embedded Labs\Lab1\Lab1\src\custom_rtc.c" 
+"C:\WorkSpace\Advanced Embedded Labs\Lab1\Lab1\src\custom_rtc.h" 
+"C:\WorkSpace\Advanced Embedded Labs\Lab1\Lab1\src\customADC.c" 
+"C:\WorkSpace\Advanced Embedded Labs\Lab1\Lab1\src\customADC.h" 
+"C:\WorkSpace\Advanced Embedded Labs\Lab1\Lab1\src\main.c" 
+"C:\WorkSpace\Advanced Embedded Labs\Lab1\Lab1\src\mtu_pwm_mode1_demo.c" 
+"C:\WorkSpace\Advanced Embedded Labs\Lab1\Lab1\src\mtu_pwm_mode1_demo.h" 
+[WORKSPACE_FILE_STATES]
+"C:\WorkSpace\Advanced Embedded Labs\Lab1\Lab1\r_bsp\board\rdkrx63n\lcd.c" 78 78 1006 231 0 7 
+"C:\WorkSpace\Advanced Embedded Labs\Lab1\Lab1\r_bsp\board\rdkrx63n\lowlvl.src" 52 52 842 266 0 14 
+"C:\WorkSpace\Advanced Embedded Labs\Lab1\Lab1\r_bsp\board\rdkrx63n\lowsrc.c" 52 52 798 210 0 17 
+"C:\WorkSpace\Advanced Embedded Labs\Lab1\Lab1\r_bsp\board\rdkrx63n\resetprg.c" 52 52 980 272 0 8 
+"C:\WorkSpace\Advanced Embedded Labs\Lab1\Lab1\r_bsp\board\rdkrx63n\vecttbl.c" 104 104 1006 253 0 9 
+"C:\WorkSpace\Advanced Embedded Labs\Lab1\Lab1\r_glyph\src\glyph\drivers\st7579_lcd.c" 0 0 1006 251 0 10 
+"C:\WorkSpace\Advanced Embedded Labs\Lab1\Lab1\r_glyph\src\r_glyph.c" 104 104 1006 250 0 4 
+"C:\WorkSpace\Advanced Embedded Labs\Lab1\Lab1\r_rspi_rx600\src\r_rspi_rx600.c" 0 0 1126 396 0 3 
+"C:\WorkSpace\Advanced Embedded Labs\Lab1\Lab1\r_switches\src\r_switches.c" 52 52 1006 250 0 2 
+"C:\WorkSpace\Advanced Embedded Labs\Lab1\Lab1\src\cmt_periodic_multi.c" 26 26 1006 250 0 1 
+"C:\WorkSpace\Advanced Embedded Labs\Lab1\Lab1\src\cmt_periodic_multi.h" 26 26 842 266 0 13 
+"C:\WorkSpace\Advanced Embedded Labs\Lab1\Lab1\src\customADC.c" 26 26 1006 270 0 11 
+"C:\WorkSpace\Advanced Embedded Labs\Lab1\Lab1\src\customADC.h" 52 52 1006 270 0 12 
+"C:\WorkSpace\Advanced Embedded Labs\Lab1\Lab1\src\custom_rtc.c" 0 0 1056 459 0 6 
+"C:\WorkSpace\Advanced Embedded Labs\Lab1\Lab1\src\custom_rtc.h" -8 -31 1056 459 1 5 
+"C:\WorkSpace\Advanced Embedded Labs\Lab1\Lab1\src\main.c" 0 0 918 440 0 0 
+"C:\WorkSpace\Advanced Embedded Labs\Lab1\Lab1\src\mtu_pwm_mode1_demo.c" 104 104 953 285 0 16 
+"C:\WorkSpace\Advanced Embedded Labs\Lab1\Lab1\src\mtu_pwm_mode1_demo.h" 78 78 953 285 0 15 
+[LOADED_PROJECTS]
+"Lab1" 
+[END]

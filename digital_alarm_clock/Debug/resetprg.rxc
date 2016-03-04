@@ -1,0 +1,16 @@
+-cpu=rx600
+-lang=c99
+-include="C:\WorkSpace\Advanced Embedded Labs\Lab1\Lab1\r_bsp"
+-include="C:\WorkSpace\Advanced Embedded Labs\Lab1\Lab1\r_glyph"
+-include="C:\WorkSpace\Advanced Embedded Labs\Lab1\Lab1\r_glyph\src"
+-include="C:\WorkSpace\Advanced Embedded Labs\Lab1\Lab1\r_glyph\src\glyph"
+-include="C:\WorkSpace\Advanced Embedded Labs\Lab1\Lab1\r_rspi_rx600"
+-include="C:\WorkSpace\Advanced Embedded Labs\Lab1\Lab1\r_rspi_rx600\src"
+-include="C:\WorkSpace\Advanced Embedded Labs\Lab1\Lab1\r_switches"
+-include="C:\WorkSpace\Advanced Embedded Labs\Lab1\Lab1\r_switches\src"
+-include="C:\WorkSpace\Advanced Embedded Labs\Lab1\Lab1\src"
+-output=obj="C:\WorkSpace\Advanced Embedded Labs\Lab1\Lab1\Debug\resetprg.obj"
+-debug
+-speed
+"C:\WorkSpace\Advanced Embedded Labs\Lab1\Lab1\r_bsp\board\rdkrx63n\resetprg.c"
+-nologo
